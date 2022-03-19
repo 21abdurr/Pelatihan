@@ -1,0 +1,30 @@
+.bg-content {
+    background-color: #dce0e4;
+}
+.bg-gray {
+    background-color: #f4f3f3;
+}
+
+.btn-blue {
+    background-color: #111272;
+    color: white;
+    border-radius: 15px;
+}
+
+.text-color{
+    color: black !important;
+    font-weight: bold;
+}
+
+.text-form {
+    color: black;
+}
+
+textarea {
+    resize: none;
+    height: 150px;
+}
+
+.btn-position {
+    float: right;
+}
